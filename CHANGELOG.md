@@ -5,7 +5,7 @@
 * [web] Added the size information to barcode results.
 * Added support for barcode formats to image analysis.
 
-## 5.2.3
+## 1.0.0
 
 Deprecations:
 * The `EncryptionType.none` constant has been deprecated, as its name was misleading. Use `EncryptionType.unknown` instead.
