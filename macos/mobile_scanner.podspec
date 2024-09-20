@@ -4,14 +4,14 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'mobile_scanner'
-  s.version          = '1.0.0'
+  s.version          = '5.2.3'
   s.summary          = 'An universal scanner for Flutter based on MLKit.'
   s.description      = <<-DESC
 An universal scanner for Flutter based on MLKit.
                        DESC
   s.homepage         = 'https://github.com/juliansteenbakker/mobile_scanner'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'Gliyen LLC' => 'juliansteenbakker@outlook.com' }
+  s.author           = { 'Julian Steenbakker' => 'juliansteenbakker@outlook.com' }
   s.source           = { :path => '.' }
   s.source_files = 'mobile_scanner/Sources/mobile_scanner/**/*.swift'
   s.dependency 'FlutterMacOS'
